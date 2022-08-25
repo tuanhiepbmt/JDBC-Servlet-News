@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/resources/message.properties=UTF-8
+encoding//src/main/webapp/common/admin/header.jsp=UTF-8
+encoding//src/main/webapp/common/admin/sidebar.jsp=UTF-8
+encoding//src/main/webapp/common/client/header.jsp=UTF-8
+encoding//src/main/webapp/views/admin/index.jsp=UTF-8
+encoding//src/main/webapp/views/client/home.jsp=UTF-8
